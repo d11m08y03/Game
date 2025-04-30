@@ -52,3 +52,7 @@ Edit `Constants.java` to modify:
 Required files are in `src/main/resources/`:
 - Background layers in `parallax/`
 - Bird spritesheet in `pigeon_fiy-Sheet.png`
+
+## Attributions
+- Backgound layers assets: https://ansimuz.itch.io/mountain-dusk-parallax-background
+- Bird Spritesheet: https://kangjung.itch.io/pigeon-pixel
